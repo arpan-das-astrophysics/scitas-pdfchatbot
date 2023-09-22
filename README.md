@@ -1,1 +1,1 @@
-# scitas-pdfchatbot
+# scitas-chatbot
